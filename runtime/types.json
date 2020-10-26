@@ -1,0 +1,7 @@
+{
+  "ClassId": "u64",
+  "TokenId": "u64",
+  "ClassData": "u32",
+  "TokenData": "u32",
+  "CID" :  "Bytes"
+}

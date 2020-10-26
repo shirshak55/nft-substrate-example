@@ -298,7 +298,7 @@ construct_runtime!(
         TemplateModule: pallet_template::{Module, Call, Storage, Event<T>},
 
         NftToken:orml_nft::{Module,Call,Storage},
-        NftPallet: nft_pallet::{Module, Call, Storage, Event<T>},
+        Nft: nft_pallet::{Module, Call, Storage, Event<T>},
     }
 );
 
